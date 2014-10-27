@@ -1,0 +1,5 @@
+#!/bin/bash
+# OddKapsel.com setup file
+# Copyright 2014 OddKapsel
+
+echo "Hello-world"
